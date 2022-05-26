@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Celso Madeira contact info",
   "main": "index.js",
-  "scripts": {
-    "postinstall": "cat info.json"
+  "bin": {
+    "cmadeira": "./index.js"
   },
   "repository": {
     "type": "git",
