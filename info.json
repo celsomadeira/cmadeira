@@ -1,0 +1,18 @@
+{
+  "name": "Celso Madeira",
+  "website": "https://celsomadeira.pt",
+  "github": "https://github.com/celsomadeira",
+  "twitter": "https://twitter.com/CelsoMadeira1",
+  "instagram": "https://instagram.com/celso.madeir",
+  "linkedin": "https://linkedin.com/in/celso-madeira",
+  "company": [
+    {
+      "name": "Snido",
+      "position": "Software Developer",
+      "website": "https://snido.io",
+      "social": {
+        "linkedin": "https://www.linkedin.com/company/snido"
+      }
+    }
+  ]
+}

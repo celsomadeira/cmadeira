@@ -1,0 +1,26 @@
+{
+  "name": "cmadeira",
+  "version": "1.0.0",
+  "description": "Celso Madeira contact info",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "cat info.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celsomadeira/cmadeira.git"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "author": "Celso Madeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/celsomadeira/cmadeira/issues"
+  },
+  "homepage": "https://github.com/celsomadeira/cmadeira#readme",
+  "dependencies": {
+    "rauchg": "^3.0.0"
+  }
+}
